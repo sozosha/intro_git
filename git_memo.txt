@@ -1,0 +1,4 @@
+gitの練習用メモ
+
+今回はadd commit pushだよ
+atom追加しました
